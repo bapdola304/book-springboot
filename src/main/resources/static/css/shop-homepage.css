@@ -1,0 +1,16 @@
+
+body {
+  padding-top: 56px;
+}
+.nav-item{
+	padding-left: 30px;
+}
+.title{
+	text-align: center;
+}
+.fa-shopping-cart{
+	color: white;
+}
+.loginform{
+	margin : auto;
+}
